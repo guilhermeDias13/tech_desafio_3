@@ -37,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "desafio": {
+        "github": "https://github.com/guilhermeDias13/tech_desafio_3",
+        "link": "hhttps://meu-projeto3-khaki.vercel.app/",
+        "template": 3
+    }
 }
